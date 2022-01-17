@@ -73,22 +73,18 @@
 	</header>
 	<!-- //header -->
 	<!-- banner -->
-	<div class="banner" id="home" imgsrc='C:\xampp\htdocs\Musical-World-master\images\logo1_kannada.jpeg'>
+	<div class="banner1" id="home" imgsrc='C:\xampp\htdocs\Musical-World-master\images\logo1_kannada.jpeg'>
 		<div class="container">
 			<div class="banner-text">
 				<div class="slider-info text-right">
-					<!-- <style>
-						<div>
-  							background-image: url('C:\xampp\htdocs\Musical-World-master\images\logo1_kannada.jpeg');
-							</div>
-						</style> -->
+					 
 					<h3 class="text-white">Listen to our kannada songs collection</h3>
 					<a class="btn btn-agile  mt-4 scroll" href="kannada_songs.php" role="button">Kannada songs</a>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div class="banner" id="home">
+	<div class="banner2" id="home">
 		<div class="container">
 			<div class="banner-text">
 				<div class="slider-info text-right">
@@ -98,7 +94,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="banner" id="home">
+	<div class="banner3" id="home">
 		<div class="container">
 			<div class="banner-text">
 				<div class="slider-info text-right">
@@ -108,7 +104,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="banner" id="home">
+	<div class="banner4" id="home">
 		<div class="container">
 			<div class="banner-text">
 				<div class="slider-info text-right">
