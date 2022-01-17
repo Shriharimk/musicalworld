@@ -47,16 +47,16 @@
 				</button>
 				<div class="collapse navbar-collapse" id="navbarSupportedContent">
 					<ul class="navbar-nav text-center ml-auto">
-						<div class="dropdown">
+						<!-- <div class="dropdown">
 						<button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"
-      aria-haspopup="true" aria-expanded="false">Track</button>
+      aria-haspopup="true" aria-expanded="false">Track</button> -->
 								<div class="dropdown-menu dropdown-primary">
 									<a class="dropdown-item" href="kannada_songs.php"><b>Kannada Songs</b></a>
 									<a class="dropdown-item" href="hindi_songs.php"><b>Hindi Songs</b></a>
 									<a class="dropdown-item" href="english_songs.php"><b>English Songs</b></a>
 									<a class="dropdown-item" href="uploaded_songs.php"><b>Uploaded Songs</b></a>
 								</div>	
-						</div>
+						<!-- </div> -->
 						<li class="nav-item  mr-3">
 							<a class="nav-link scroll" href="#about">about</a>
                         </li>
@@ -77,8 +77,7 @@
 		<div class="container">
 			<div class="banner-text">
 				<div class="slider-info text-right">
-					<h1 class="text-uppercase">listen to music anywhere.</h1>
-					<p class="text-white">Are you a Singer?...Upload Your Music here and get featured.</p>
+					<h3 class="text-white">Listen to our kannada songs collection</h3>
 					<a class="btn btn-agile  mt-4 scroll" href="kannada_songs.php" role="button">Kannada songs</a>
 				</div>
 			</div>
@@ -88,8 +87,7 @@
 		<div class="container">
 			<div class="banner-text">
 				<div class="slider-info text-right">
-					<h1 class="text-uppercase">listen to music anywhere.</h1>
-					<p class="text-white">Listen to our hindi collection</p>
+					<h3 class="text-white">Listen to our hindi songs collection</h3>
 					<a class="btn btn-agile  mt-4 scroll" href="hindi_songs.php" role="button">Hindi songs</a>
 				</div>
 			</div>
@@ -99,8 +97,7 @@
 		<div class="container">
 			<div class="banner-text">
 				<div class="slider-info text-right">
-					<h1 class="text-uppercase">listen to music anywhere.</h1>
-					<p class="text-white">Listen to our English collection</p>
+					<h3 class="text-white">Listen to our English songs collection</h3>
 					<a class="btn btn-agile  mt-4 scroll" href="english_songs.php" role="button">English songs</a>
 				</div>
 			</div>
@@ -110,8 +107,7 @@
 		<div class="container">
 			<div class="banner-text">
 				<div class="slider-info text-right">
-					<h1 class="text-uppercase">listen to music anywhere.</h1>
-					<p class="text-white">Upload your own music</p>
+					<h3 class="text-white">Upload your own music</h3>
 					<a class="btn btn-agile  mt-4 scroll" href="uploaded_songs.php" role="button">Upload</a>
 				</div>
 			</div>
@@ -119,7 +115,7 @@
 	</div>
 	<!-- //banner -->
 	<!-- about-->
-	 <section class="wthree-row" id="about">
+	 <!-- <section class="wthree-row" id="about">
 		<div class="row justify-content-center align-items-center no-gutters abbot-main">
 			<div class="col-lg-6 p-0">
 				<img src="images/about.jpg" class="img-fluid" alt="" />
@@ -139,17 +135,17 @@
 				</div>
 			</div>
 		</div>
-	</section> 
+	</section>  -->
 	<!-- //about -->
 	<!-- contact top -->
-	<div class="contact-top text-center" id="more_info">
+	<!-- <div class="contact-top text-center" id="more_info">
 		<div class="content-contact-top">
 			<h3 class="stat-title text-white">for more information</h3>
 			<h2 class="stat-title text-white">stay in touch</h2>
 			<p class="text-white w-75 mx-auto">Musical World a unique platform for upcoming singers.
 			</p>
 		</div>
-	</div>
+	</div> -->
 	<!-- 
 	
 	<div class="w3-contact py-5" id="contact">
