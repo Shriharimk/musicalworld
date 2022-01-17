@@ -56,13 +56,13 @@
 				<div class="collapse navbar-collapse" id="navbarSupportedContent">
 					<ul class="navbar-nav text-center ml-auto">
 						<li class="nav-item  mr-3">
-							<a class="nav-link scroll" href="#about">about</a>
+							<!-- <a class="nav-link scroll" href="#about">about</a> -->
 						</li>
 						<li class="nav-item">
 							<a class="nav-link scroll" href="" data-target="#modalLRForm" data-toggle="modal">Login/Signup</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link scroll" href="#contact">contact</a>
+							<!-- <a class="nav-link scroll" href="#contact">contact</a> -->
 						</li>
 					</ul>
 				</div>
@@ -77,7 +77,7 @@
 				<div class="slider-info text-right">
 					<h1 class="text-uppercase">listen to music anywhere.</h1>
 					<p class="text-white">Are you a Singer?...Upload Your Music here and get featured.</p>
-					<a class="btn btn-agile  mt-4 scroll" href="#about" role="button">read more</a>
+					<!-- <a class="btn btn-agile  mt-4 scroll" href="#about" role="button">read more</a> -->
 				</div>
 			</div>
 		</div>
@@ -99,7 +99,7 @@
 							Are you a singer?...But afraid to sing in front of a huge crowd.Then you are in the right place.Upload your songs to musical world and let the people listen to your songs and rate it.
 						</p>
 						<p class="card-text align-self-center mb-5 text-white">Be the part of musical world.Upload your songs and get featured by greate musicians.</p>
-						<a href="#more_info" class="btn btn-agile abt_card_btn scroll">Know More</a>
+						<!--<a href="#more_info" class="btn btn-agile abt_card_btn scroll">Know More</a>-->
 					</div>
 				</div>
 			</div>

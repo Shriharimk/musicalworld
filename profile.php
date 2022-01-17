@@ -34,7 +34,7 @@
 	<header>
 		<div class="container">
 			<nav class="navbar navbar-expand-lg navbar-light">
-				<a class="navbar-brand" href="index.html">
+				<a class="navbar-brand" href="index.php">
 					Musical World
                 </a>
                 <pre>                 </pre>
@@ -50,19 +50,19 @@
 						<!-- <div class="dropdown">
 						<button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"
       aria-haspopup="true" aria-expanded="false">Track</button> -->
-								<div class="dropdown-menu dropdown-primary">
+								<!-- <div class="dropdown-menu dropdown-primary">
 									<a class="dropdown-item" href="kannada_songs.php"><b>Kannada Songs</b></a>
 									<a class="dropdown-item" href="hindi_songs.php"><b>Hindi Songs</b></a>
 									<a class="dropdown-item" href="english_songs.php"><b>English Songs</b></a>
 									<a class="dropdown-item" href="uploaded_songs.php"><b>Uploaded Songs</b></a>
-								</div>	
+								</div> -->	
 						<!-- </div> -->
-						<li class="nav-item  mr-3">
+						<!-- <li class="nav-item  mr-3">
 							<a class="nav-link scroll" href="#about">about</a>
                         </li>
                         <li class="nav-item">
 							<a class="nav-link scroll" href="#contact">contact</a>
-						</li>
+						</li> -->
 						<li class="nav-item">
 							<a class="nav-link scroll" href="logout.php">logout</a>
 						</li>
@@ -73,10 +73,15 @@
 	</header>
 	<!-- //header -->
 	<!-- banner -->
-	<div class="banner" id="home">
+	<div class="banner" id="home" imgsrc='C:\xampp\htdocs\Musical-World-master\images\logo1_kannada.jpeg'>
 		<div class="container">
 			<div class="banner-text">
 				<div class="slider-info text-right">
+					<!-- <style>
+						<div>
+  							background-image: url('C:\xampp\htdocs\Musical-World-master\images\logo1_kannada.jpeg');
+							</div>
+						</style> -->
 					<h3 class="text-white">Listen to our kannada songs collection</h3>
 					<a class="btn btn-agile  mt-4 scroll" href="kannada_songs.php" role="button">Kannada songs</a>
 				</div>

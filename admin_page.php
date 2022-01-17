@@ -318,7 +318,7 @@
                                 <th class='text-center'>Mobile Number</th>
                                 <th class='text-center'>Password</th>
                                 <th class='text-center'>Contributions</th>
-                                <th class='text-center'>Confirm Status</th>
+                               <!-- <th class='text-center'>Confirm Status</th>-->
                             </tr>
             ";
             while($row = mysqli_fetch_array($result)){
@@ -331,7 +331,7 @@
                             <td class='pt-3-half' >".$row['mobile_number']."</td>
                             <td class='pt-3-half' >".$row['password']."</td>
                             <td class='pt-3-half' >".$row['contributions']."</td>
-                            <td class='pt-3-half' >".$row['confirm_status']."</td>
+                            
                         </tr>      
                 ";
             }
@@ -560,7 +560,9 @@
 	<div class="form-row">
 		<div class="col">
 			<div class="form-group btn btn-primary">
+				<!--<label >Song file</label>-->
 				<input type="file" class="form-control-file" id="exampleInputFile4" aria-describedby="fileHelp" name="audio_file" required>
+
 			</div>
 		</div>		
 
@@ -707,9 +709,7 @@
 ";
 ?>
 	<!-- copyright -->
-	<div class="cpy-right text-center">
-		<p>© 2018 Musical World. All rights reserved</p>
-	</div>
+	
     <!-- //copyright -->
     <!-- js-->
 	<script src="js/jquery-2.2.3.min.js"></script>

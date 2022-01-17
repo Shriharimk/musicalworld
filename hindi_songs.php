@@ -192,7 +192,7 @@ a.btn-card {
 	<header>
 		<div class="container">
 			<nav class="navbar navbar-expand-lg navbar-light">
-				<a class="navbar-brand" href="index.html">
+				<a class="navbar-brand" href="index.php">
 					Musical World
                 </a>
                 <pre>                 </pre>
@@ -275,7 +275,7 @@ a.btn-card {
 	";
 	
 		?>
-	<!-- contact top -->
+	<!--
 	<div class="contact-top text-center" id="more_info">
 		<div class="content-contact-top">
 			<h3 class="stat-title text-white">for more information</h3>
@@ -283,13 +283,13 @@ a.btn-card {
 			<p class="text-white w-75 mx-auto">Musical World a unique platform for upcoming singers.
 			</p>
 		</div>
-	</div>
-	<!-- //contact top -->
-	<!-- contact -->
+	</div> -->
+	<!-- 
+	
 	<div class="w3-contact py-5" id="contact">
 		<div class="container">
 			<div class="row contact-form pt-md-5">
-				<!-- contact details -->
+				
 				<div class="col-lg-6 contact-bottom d-flex flex-column contact-right-w3ls">
 					<h5>get in touch</h5>
 					<div class="fv3-contact">
@@ -330,7 +330,7 @@ a.btn-card {
 				</div>
 				<div class="col-lg-6 wthree-form-left my-lg-0 mt-5">
 					<h5>send us a mail</h5>
-					<!-- contact form grid -->
+					
 					<div class="contact-top1">
 						<form action="#" method="get" class="contact-wthree">
 							<div class="form-group d-flex">
@@ -362,19 +362,18 @@ a.btn-card {
 							</div>
 						</form>
 					</div>
-					<!--  //contact form grid ends here -->
+					
 				</div>
 
 			</div>
-			<!-- //contact details container -->
+			
 		</div>
 	</div>
-	<!-- //contact -->
-	<!-- copyright -->
+	
 	<div class="cpy-right text-center">
 		<p>© 2018 Musical World. All rights reserved</p>
 	</div>
-    <!-- //copyright -->
+     //copyright --> -->
     <!-- js-->
 	<script src="js/jquery-2.2.3.min.js"></script>
 	<!-- js-->
