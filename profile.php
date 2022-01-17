@@ -79,7 +79,40 @@
 				<div class="slider-info text-right">
 					<h1 class="text-uppercase">listen to music anywhere.</h1>
 					<p class="text-white">Are you a Singer?...Upload Your Music here and get featured.</p>
-					<a class="btn btn-agile  mt-4 scroll" href="#about" role="button">read more</a>
+					<a class="btn btn-agile  mt-4 scroll" href="kannada_songs.php" role="button">Kannada songs</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="banner" id="home">
+		<div class="container">
+			<div class="banner-text">
+				<div class="slider-info text-right">
+					<h1 class="text-uppercase">listen to music anywhere.</h1>
+					<p class="text-white">Listen to our hindi collection</p>
+					<a class="btn btn-agile  mt-4 scroll" href="hindi_songs.php" role="button">Hindi songs</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="banner" id="home">
+		<div class="container">
+			<div class="banner-text">
+				<div class="slider-info text-right">
+					<h1 class="text-uppercase">listen to music anywhere.</h1>
+					<p class="text-white">Listen to our English collection</p>
+					<a class="btn btn-agile  mt-4 scroll" href="english_songs.php" role="button">English songs</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="banner" id="home">
+		<div class="container">
+			<div class="banner-text">
+				<div class="slider-info text-right">
+					<h1 class="text-uppercase">listen to music anywhere.</h1>
+					<p class="text-white">Upload your own music</p>
+					<a class="btn btn-agile  mt-4 scroll" href="uploaded_songs.php" role="button">Upload</a>
 				</div>
 			</div>
 		</div>
